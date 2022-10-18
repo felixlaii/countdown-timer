@@ -20,3 +20,12 @@
   flex-direction: column;
   text-align: center;
 }
+
+.divider,
+.time {
+  font-size: 7rem;
+}
+
+.diver {
+  padding: 0 2rem;
+}
