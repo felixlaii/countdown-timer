@@ -14,3 +14,9 @@
   background-color: rgba(256, 256, 256, 0.8);
   border-radius: 5px;
 }
+
+.timer-segment {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
