@@ -79,6 +79,15 @@ const Home: NextPage = () => {
               </div>
             </div>
           </div>
+          <Image
+            alt="background image"
+            src="/image.webp"
+            layout="fill"
+            quality={100}
+          />
+        </>
+      )}
+    </div>
 
     </div>
   )
